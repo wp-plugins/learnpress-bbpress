@@ -1,7 +1,7 @@
 ===  LearnPress bbPress Integration ===
 Contributors: thimpress, kendy73, tunnhn  
 Donate link: http://thimpress.com/learnpress
-Tags: bbpress, learnpress, lms, elearning, e-learning, learning management system, education, course, courses, quiz, quizzes, questions, training, guru, sell courses
+Tags: bbpress, learnpress, lms, elearning, e-learning, learning management system, education, course, courses, quiz, quizzes, questions
 Requires at least: 3.8  
 Tested up to: 4.2.2
 Stable tag: trunk  
