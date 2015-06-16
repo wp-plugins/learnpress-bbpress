@@ -14,7 +14,7 @@ LearnPress bbPress Integration is a plugin which bring bbPress Forum features to
 
 [LearnPress](https://wordpress.org/plugins/learnpress) bbPress is an add-on for the [LearnPress WordPress LMS Plugin](http://thimpress.com/learnpress) by [ThimPress](http://thimpress.com). It brings forum to your course. Now, teacher can interact with students and students in a course can discuss with each others about the course. LearnPress bbPress simply empower course with features of bbPress Forum.
 
-**Free add-on for LearnPress WordPress LMS Plugin:**
+**Free add-ons for LearnPress WordPress LMS Plugin:**
 
 - <a href="https://wordpress.org/plugins/learnpress-wishlist" target="_blank">LearnPress Wishlist</a> - add courses to a Wishlist for students.
 - <a href="https://wordpress.org/plugins/learnpress-course-review" target="_blank">LearnPress Course Review</a> - review course for enrolled students.
