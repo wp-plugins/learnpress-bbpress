@@ -1,7 +1,7 @@
 ===  LearnPress bbPress Integration ===
 Contributors: thimpress, kendy73, tunnhn  
 Donate link: http://thimpress.com/learnpress
-Tags: bbpress, learnpress, lms, elearning, e-learning, learning management system, education, course, courses, quiz, quizzes, questions
+Tags: bbpress, learnpress, lms, elearning, e-learning, learning management system, education, course, courses, quiz, quizzes, questions, training, guru, sell courses
 Requires at least: 3.8  
 Tested up to: 4.2.2
 Stable tag: trunk  
@@ -16,7 +16,7 @@ LearnPress bbPress Integration is a plugin which bring bbPress Forum features to
 
 **Other free add-ons for LearnPress are available in WordPress:**  
 
-- <a href="https://wordpress.org/plugins/learnpress-wishlist/" target="_blank">Wishlist</a> - add courses to a wishlist for students.  
+- <a href="https://wordpress.org/plugins/learnpress-wishlist/" target="_blank">Wishlist</a> - add courses to a Wishlist for students.
 - <a href="https://wordpress.org/plugins/learnpress-course-review/" target="_blank">LearnPress Course Review</a> - review course for enrolled students.  
 - <a href="https://wordpress.org/plugins/learnpress-import-export/" target="_blank">LearnPress Import Export</a> - export or import course or courses out-of-box.  
 - <a href="https://wordpress.org/plugins/learnpress-prerequisites-courses/" target="_blank">LearnPress Prerequisites Courses</a> - require student to pass some courses in order to enroll other course.  
@@ -28,7 +28,7 @@ LearnPress bbPress Integration is a plugin which bring bbPress Forum features to
 - <a href="http://thimpress.com/shop/co-instructors-add-on-for-learnpress/" target="_blank">Co-instructors add-on for LearnPress</a> - multiple instructors support for each LMS course.  
 - <a href="http://thimpress.com/shop/collections-add-on-for-learnpress/"  target="_blank">Collections add-on for LearnPress</a> - making LMS courses collection by selecting number of courses, this is helpful if you want to combine multiple LMS courses into a collection for a group of skills.  
 - <a href="http://thimpress.com/shop/stripe-add-on-for-learnpress/"  target="_blank">Stripe Payment method for LearnPress</a> - Stripe payment method for LearnPress WordPress LMS Plugin.  
-- <a href="http://thimpress.com/shop/woocommerce-add-on-for-learnpress/"  target="_blank">WooCommerce add-on for LearnPress</a> - using WooCommerce as payment gateway for LearnPrss WordPress LMS Plugin.  
+- <a href="http://thimpress.com/shop/woocommerce-add-on-for-learnpress/"  target="_blank">WooCommerce add-on for LearnPress</a> - using WooCommerce as payment gateway for LearnPress WordPress LMS Plugin.
 
 
 == Installation ==  
@@ -60,4 +60,4 @@ Later :)
 
 == Other note ==  
 <a href="http://docs.thimpress.com/learnpress" target="_blank">Documentation</a> is available in ThimPress site.  
-<a href="https://github.com/LearnPress/">LearnPress GitHub repo.</a>
+<a href="https://github.com/LearnPress/">LearnPress github repo.</a>
